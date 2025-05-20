@@ -1,0 +1,33 @@
+/* Your styles goes here. */
+
+.tableContainer {
+  max-width: 750px;
+  margin-top: 1em;
+  color: black;
+  width: 100%;
+  padding: 0 1rem;
+}
+
+.table {
+  outline: 2px solid black;
+  color: #e8e6fe;
+  display: table;
+  width: 100%;
+}
+
+.tableCell,
+td {
+  padding: 1rem;
+  text-align: center;
+}
+
+.tableHead {
+  /* background-color: #1e293b; */
+}
+
+.table,
+.tableCell,
+th {
+  border-collapse: collapse;
+  color: black;
+}
